@@ -1,4 +1,4 @@
-# corona_tracker
+# Corona Tracker App by Rohan Choudhary
 
 Application that tracks Covid-19 cases stats.
 Features include
