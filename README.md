@@ -9,3 +9,5 @@ Features include
 - General COVID info
 - Latest news regarding Coronavirus
 - Prevention methods 
+
+![](https://drive.google.com/file/d/1QVHz_TLQwDoFC8A-HnfYOIAvFaADftwv/view?usp=sharing)
