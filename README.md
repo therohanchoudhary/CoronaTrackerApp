@@ -10,4 +10,4 @@ Features include
 - Latest news regarding Coronavirus
 - Prevention methods 
 
-![](https://drive.google.com/file/d/1QVHz_TLQwDoFC8A-HnfYOIAvFaADftwv/view?usp=sharing)
+![Image](https://drive.google.com/file/d/1QVHz_TLQwDoFC8A-HnfYOIAvFaADftwv/view?usp=sharing)
